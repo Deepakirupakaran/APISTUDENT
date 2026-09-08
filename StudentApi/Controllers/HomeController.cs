@@ -86,17 +86,7 @@ namespace StudentApi.Controllers
         }
 
 
-
-
-
-
-
-
-
-
-
-
-
+         
 
 
 
