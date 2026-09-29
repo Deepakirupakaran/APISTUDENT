@@ -55,7 +55,7 @@ namespace StudentApi.Controllers
 
         [HttpGet]
         [Route("getdetails")]
-        public async Task<IActionResult >getdetails(int id)
+        public async Task<IActionResult>getdetails(int id)
 
 
         {
